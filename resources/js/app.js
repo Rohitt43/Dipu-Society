@@ -6,8 +6,23 @@
 
 require('./bootstrap');
 
+import router from "./routes";
+import VueRouter from "vue-router";
+import Vue from "vue";
+import { BootstrapVue, IconsPlugin } from 'bootstrap-vue';
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/fontawesome-free/js/all.js'
+
+
+
 
 window.Vue = require('vue').default;
+
+
+Vue.use(VueRouter);
+Vue.use(BootstrapVue);
+Vue.use(IconsPlugin);
+
 
 /**
  * The following block of code may be used to automatically register your
@@ -20,10 +35,12 @@ window.Vue = require('vue').default;
 // const files = require.context('./', true, /\.vue$/i)
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
-Vue.component('app-component', require('./components/App.vue').default);
-Vue.component('home-component', require('./components/Home.vue').default);
 Vue.component('footer-component', require('./components/Footer.vue').default);
 Vue.component('navbar-component', require('./components/NavBar').default);
+
+
+
+
 
 
 /**
@@ -34,4 +51,6 @@ Vue.component('navbar-component', require('./components/NavBar').default);
 
 const app = new Vue({
     el: '#app',
+    router,
+    VueRouter
 });
