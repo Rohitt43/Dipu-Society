@@ -9,22 +9,24 @@
                     <ul class="address-block list-unstyled">
                         <li>
                             <h6 class="mb-2">Address</h6>
-                           Dhangadi,Nepal
+                           Pashupati Tole-01, Dhangadhi, Kailali, Nepal
                         </li>
                         <li>
                             <h6 class="mb-2">email us</h6>
-                            contact@gmail.com
+                            sunita_swar@yahoo.com
                         </li>
                         <li>
                             <h6 class="mb-2">Phone Number</h6>
-                           +977 1234567890
+                           +977 9848455764 <br>
+                           +977 9848612639 <br>
+                           +977 9848424652
                         </li>
                     </ul>
 
                     <ul class="social-icons list-inline mt-5">
                        <li> <h6 class="mb-3">Find us on social media</h6></li>
                         <li class="list-inline-item">
-                            <a href="http://www.themefisher.com"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=100081195559786"><i class="fa-brands fa-facebook-f"></i></a>
                         </li>
                         <li class="list-inline-item">
                             <a href="http://www.themefisher.com"><i class="fa-brands fa-twitter"></i></a>

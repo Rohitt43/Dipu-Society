@@ -5,13 +5,13 @@
                 <div class="row justify-content-between align-items-center">
                     <div class="col-lg-6 col-md-4  text-lg-left text-md-left">
                         <div class="header-top-info">
-                            <i class="fa-solid fa-phone"></i><span class="m-2">+23-345-67890</span>
-                            <i class="fa-solid fa-envelope" style="font-size:15px; margin-left:20px;"></i><span class="m-2">support@gmail.com</span>
+                            <i class="fa-solid fa-phone"></i><span class="m-2">+977 9848455764</span>
+                            <i class="fa-solid fa-envelope" style="font-size:15px; margin-left:20px;"></i><span class="m-2">sunita_swar@yahoo.com</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-8">
                         <div class="header-top-right text-center text-lg-right text-md-right mt-3 mt-lg-0">
-                            <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=100081195559786" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                             <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
                             <a href="https://github.com/" target="_blank"><i class="fa-brands fa-google"></i></a>
                             <a href="#" target="_blank"><i class="fa-brands fa-pinterest"></i></a>

@@ -8,7 +8,7 @@
 			<div class="col-lg-9 col-md-10">
 				<div class="block text-center">
 					<span class="d-block mb-3 text-white text-capitalize">Small help can make change</span>
-					<h1 class="mb-4">New hope for <br>near future</h1>
+					<h1 class="mb-4">Diversified Initiatives for  <br>Progression and Unified Society</h1>
 					<p class="mb-4">Your small contribution means a lot. Natus officia amet hic  <br>accusamus repellat magni reprehenderit dolorem.</p>
 					<b-button variant="success">Button</b-button>
 				</div>
@@ -257,7 +257,7 @@
 				      <img src="../assets/c1.jpg" class="img-fluid w-100" alt="...">
 
 				      <div class="card-body">
-				        <h3 class="mb-3"><a href="cause-single.html">Save Poor Childrens</a></h3>
+				        <h3 class="mb-3"><a href="cause-single.html">Tree plantation</a></h3>
 
 				         <ul class="list-inline border-bottom border-top py-3 ">
 				        	<li class="list-inline-item"><i class="icofont-check text-color mr-2"></i>Goal:	<span>$890</span></li>
@@ -277,7 +277,7 @@
 				      <img src="../assets/c2.jpg" class="img-fluid w-100" alt="...">
 
 				      <div class="card-body">
-				        <h3 class="mb-3"><a href="cause-single.html">Clean Drink Water</a></h3>
+				        <h3 class="mb-3"><a href="cause-single.html">Donation for children</a></h3>
 				         <ul class="list-inline border-bottom  border-top py-3">
 				        	<li class="list-inline-item"><i class="icofont-check text-color mr-2"></i>Goal: <span>$890</span></li>
 				        	<li class="list-inline-item"><i class="icofont-check text-color mr-2"></i>Raised: <span>$390</span></li>

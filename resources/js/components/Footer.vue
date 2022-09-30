@@ -6,11 +6,11 @@
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="footer-widget widget">
 					<h4 class="text-capitalize mb-4 text-white">Company</h4>
-					<p>Flat 20, Reynolds Neck, North <br>Helenaville, FV77</p>
+					<p>Pashupati Tole-01, Dhangadhi, Kailali, Nepal</p>
 
 					<ul class="list-unstyled footer-menu mt-4">
-						<li><a href="#"><i class="icofont-phone"></i>+2(305) 587-3407</a></li>
-						<li><a href="#"><i class="icofont-email"></i>info@example.com</a></li>
+						<li><a href="#"><i class="icofont-phone"></i>+977 9848455764<br>+977 9848612639<br>+977 9848424652</a></li>
+						<li><a href="#"><i class="icofont-email"></i>sunita_swar@yahoo.com+23-345-67890</a></li>
 					</ul>
 					<ul class="list-inline footer-socials">
 						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
@@ -39,7 +39,7 @@
 					<p class="mb-4">Subscribe to get latest news article and resources  </p>
 
 					<form action="#" class="sub-form">
-						<input type="text" class="form-control mb-4" placeholder="Subscribe Now ...">
+						<input type="text" class="form-control mb-4 text-white" placeholder="Subscribe Now ...">
 						<b-button class="btn btn-main btn-small rounded">Subscribe</b-button>
 					</form>
 				</div>
